@@ -1,0 +1,411 @@
+[
+  {
+    "id": 1,
+    "text": "What is the recommended distance to keep a torch flame from combustible materials?",
+    "options": [
+      { "id": "A", "option": "5 feet" },
+      { "id": "B", "option": "10 feet" },
+      { "id": "C", "option": "25 feet" },
+      { "id": "D", "option": "35 feet" }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "text": "Which type of gas is commonly used for cutting torches?",
+    "options": [
+      { "id": "A", "option": "Oxygen and acetylene" },
+      { "id": "B", "option": "Helium and hydrogen" },
+      { "id": "C", "option": "Nitrogen and argon" },
+      { "id": "D", "option": "Carbon dioxide and methane" }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "text": "When lighting a torch, which valve should be opened first?",
+    "options": [
+      { "id": "A", "option": "Oxygen valve" },
+      { "id": "B", "option": "Fuel gas valve" },
+      { "id": "C", "option": "Both at the same time" },
+      { "id": "D", "option": "It does not matter" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "text": "What should be done if a flashback occurs in a torch?",
+    "options": [
+      { "id": "A", "option": "Increase the gas flow" },
+      { "id": "B", "option": "Decrease the gas flow" },
+      { "id": "C", "option": "Turn off the torch and check the equipment" },
+      { "id": "D", "option": "Continue working" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 5,
+    "text": "What is a flashback arrestor?",
+    "options": [
+      { "id": "A", "option": "A device that cools the flame" },
+      {
+        "id": "B",
+        "option": "A device that prevents flame from traveling back into the hose"
+      },
+      { "id": "C", "option": "A device that regulates gas pressure" },
+      { "id": "D", "option": "A device that controls the gas mixture" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "text": "How often should torches and hoses be inspected for leaks and damage?",
+    "options": [
+      { "id": "A", "option": "Daily" },
+      { "id": "B", "option": "Weekly" },
+      { "id": "C", "option": "Monthly" },
+      { "id": "D", "option": "Annually" }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "text": "What is the correct procedure to follow if a torch tip becomes clogged?",
+    "options": [
+      { "id": "A", "option": "Increase the gas pressure" },
+      { "id": "B", "option": "Clean it with a tip cleaner" },
+      { "id": "C", "option": "Tap it gently against a hard surface" },
+      { "id": "D", "option": "Replace the entire torch" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "text": "Which safety gear is essential when using a torch?",
+    "options": [
+      { "id": "A", "option": "Ear protection" },
+      { "id": "B", "option": "Respirator" },
+      { "id": "C", "option": "Welding gloves and goggles" },
+      { "id": "D", "option": "None of the above" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "text": "What is the potential hazard of using acetylene at pressures above 15 psi?",
+    "options": [
+      { "id": "A", "option": "Reduced cutting efficiency" },
+      { "id": "B", "option": "Increased risk of flashbacks" },
+      { "id": "C", "option": "Acetylene becomes unstable and can explode" },
+      { "id": "D", "option": "None of the above" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "text": "How should torches be stored when not in use?",
+    "options": [
+      { "id": "A", "option": "In a locked cabinet" },
+      { "id": "B", "option": "With the hoses coiled neatly" },
+      {
+        "id": "C",
+        "option": "With the gas cylinders turned off and separated from the hoses"
+      },
+      { "id": "D", "option": "In any convenient location" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "text": "What is the primary purpose of conducting a pre-check before starting torch operations?",
+    "options": [
+      { "id": "A", "option": "To ensure the torch is functioning properly" },
+      { "id": "B", "option": "To verify all safety equipment is present" },
+      {
+        "id": "C",
+        "option": "To identify and mitigate any fire hazards in the work area"
+      },
+      { "id": "D", "option": "All of the above" }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "text": "Which of the following should be included in a work area pre-check?",
+    "options": [
+      { "id": "A", "option": "Inspecting for flammable materials" },
+      { "id": "B", "option": "Ensuring adequate ventilation" },
+      { "id": "C", "option": "Verifying the presence of fire extinguishers" },
+      { "id": "D", "option": "All of the above" }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 13,
+    "text": "What is the role of a fire watch during torch operations?",
+    "options": [
+      { "id": "A", "option": "To operate the torch" },
+      { "id": "B", "option": "To monitor the area for signs of fire" },
+      { "id": "C", "option": "To replace empty gas cylinders" },
+      { "id": "D", "option": "To assist with equipment setup" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "text": "For how long should a fire watch remain on site after completing hot work operations?",
+    "options": [
+      { "id": "A", "option": "15 minutes" },
+      { "id": "B", "option": "30 minutes" },
+      { "id": "C", "option": "60 minutes" },
+      { "id": "D", "option": "120 minutes" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "text": "What is the required radius for a fire watch around the hot work area?",
+    "options": [
+      { "id": "A", "option": "10 feet" },
+      { "id": "B", "option": "25 feet" },
+      { "id": "C", "option": "35 feet" },
+      { "id": "D", "option": "50 feet" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "text": "Which fire extinguisher is suitable for extinguishing a gas fire?",
+    "options": [
+      { "id": "A", "option": "Water extinguisher" },
+      { "id": "B", "option": "Foam extinguisher" },
+      { "id": "C", "option": "Dry chemical extinguisher" },
+      { "id": "D", "option": "Carbon dioxide extinguisher" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "text": "What is the first step in using a fire extinguisher?",
+    "options": [
+      { "id": "A", "option": "Aim at the base of the fire" },
+      { "id": "B", "option": "Pull the pin" },
+      { "id": "C", "option": "Squeeze the handle" },
+      { "id": "D", "option": "Sweep side to side" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "text": "What class of fire extinguisher is used for flammable gases?",
+    "options": [
+      { "id": "A", "option": "Class A" },
+      { "id": "B", "option": "Class B" },
+      { "id": "C", "option": "Class C" },
+      { "id": "D", "option": "Class D" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 19,
+    "text": "Why is it important to have fire suppression equipment readily available when performing hot work?",
+    "options": [
+      { "id": "A", "option": "To comply with regulations" },
+      { "id": "B", "option": "To quickly extinguish any accidental fires" },
+      { "id": "C", "option": "To protect personnel and property" },
+      { "id": "D", "option": "All of the above" }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "text": "What type of fire suppression system is recommended for areas with high concentrations of flammable gases?",
+    "options": [
+      { "id": "A", "option": "Water sprinkler system" },
+      { "id": "B", "option": "Foam system" },
+      { "id": "C", "option": "Dry chemical system" },
+      { "id": "D", "option": "Gas suppression system" }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "text": "What is the function of a regulator on a gas cylinder?",
+    "options": [
+      { "id": "A", "option": "To control the flow of gas" },
+      { "id": "B", "option": "To measure the amount of gas remaining" },
+      { "id": "C", "option": "To prevent gas leaks" },
+      { "id": "D", "option": "To increase the gas pressure" }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 22,
+    "text": "How should a regulator be adjusted before opening the cylinder valve?",
+    "options": [
+      {
+        "id": "A",
+        "option": "Turn the regulator adjusting screw all the way out"
+      },
+      {
+        "id": "B",
+        "option": "Turn the regulator adjusting screw all the way in"
+      },
+      { "id": "C", "option": "Leave the regulator as it is" },
+      { "id": "D", "option": "Remove the regulator completely" }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "text": "What is the purpose of a check valve in a torch setup?",
+    "options": [
+      { "id": "A", "option": "To prevent gas from leaking out" },
+      { "id": "B", "option": "To prevent reverse gas flow" },
+      { "id": "C", "option": "To control gas pressure" },
+      { "id": "D", "option": "To mix the gases properly" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "text": "What should be done if a torch hose shows signs of wear or damage?",
+    "options": [
+      { "id": "A", "option": "Continue using it but monitor closely" },
+      { "id": "B", "option": "Repair it with tape" },
+      { "id": "C", "option": "Replace the hose immediately" },
+      { "id": "D", "option": "Reduce the gas pressure" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 25,
+    "text": "What is the importance of using the correct tip size for a torch?",
+    "options": [
+      {
+        "id": "A",
+        "option": "To ensure proper gas flow and flame characteristics"
+      },
+      { "id": "B", "option": "To save on gas consumption" },
+      { "id": "C", "option": "To make the torch lighter" },
+      { "id": "D", "option": "To improve cutting speed" }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "text": "What is the correct method to move a compressed gas cylinder?",
+    "options": [
+      { "id": "A", "option": "Roll it on its side" },
+      { "id": "B", "option": "Carry it by the valve" },
+      { "id": "C", "option": "Use a cylinder cart" },
+      { "id": "D", "option": "Drag it carefully" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "text": "How should compressed gas cylinders be stored?",
+    "options": [
+      { "id": "A", "option": "Upright and secured" },
+      { "id": "B", "option": "Lying on their side" },
+      { "id": "C", "option": "In a tightly enclosed space" },
+      { "id": "D", "option": "Near heat sources" }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "text": "What should be done if a cylinder valve becomes damaged or difficult to operate?",
+    "options": [
+      { "id": "A", "option": "Use a wrench to force it open" },
+      { "id": "B", "option": "Contact the gas supplier for assistance" },
+      { "id": "C", "option": "Tap it gently with a hammer" },
+      { "id": "D", "option": "Lubricate it with oil" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "text": "Why should oil or grease never be used on oxygen cylinder valves or fittings?",
+    "options": [
+      { "id": "A", "option": "It can cause corrosion" },
+      { "id": "B", "option": "It can cause an explosion" },
+      { "id": "C", "option": "It can make the valve hard to turn" },
+      { "id": "D", "option": "It can block the gas flow" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "text": "How often should compressed gas cylinders be inspected?",
+    "options": [
+      { "id": "A", "option": "Before each use" },
+      { "id": "B", "option": "Weekly" },
+      { "id": "C", "option": "Monthly" },
+      { "id": "D", "option": "Annually" }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "text": "What is the recommended distance to separate oxygen and fuel gas cylinders during storage?",
+    "options": [
+      { "id": "A", "option": "5 feet" },
+      { "id": "B", "option": "10 feet" },
+      { "id": "C", "option": "20 feet" },
+      { "id": "D", "option": "35 feet" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "text": "What is the proper procedure if a gas leak is suspected in a cylinder?",
+    "options": [
+      { "id": "A", "option": "Submerge the cylinder in water" },
+      {
+        "id": "B",
+        "option": "Move the cylinder to a well-ventilated area and contact the supplier"
+      },
+      { "id": "C", "option": "Tighten the valve and continue using it" },
+      {
+        "id": "D",
+        "option": "Use soapy water to check for leaks and if found, repair immediately"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "text": "What is required to legally operate a torch in New York City?",
+    "options": [
+      { "id": "A", "option": "A valid driver’s license" },
+      { "id": "B", "option": "A G60 Certificate of Fitness" },
+      { "id": "C", "option": "A high school diploma" },
+      { "id": "D", "option": "A permit from the Department of Buildings" }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "text": "How often must the G60 Certificate of Fitness be renewed?",
+    "options": [
+      { "id": "A", "option": "Annually" },
+      { "id": "B", "option": "Every two years" },
+      { "id": "C", "option": "Every three years" },
+      { "id": "D", "option": "Every five years" }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "text": "Who is responsible for ensuring that torch operations are conducted safely and in compliance with regulations?",
+    "options": [
+      { "id": "A", "option": "The building owner" },
+      { "id": "B", "option": "The fire watch personnel" },
+      { "id": "C", "option": "The certificate of fitness holder" },
+      { "id": "D", "option": "The equipment supplier" }
+    ],
+    "correct": "C"
+  }
+]
