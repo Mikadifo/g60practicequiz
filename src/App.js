@@ -1,12 +1,12 @@
 import { useState } from "react";
 import Header from "./components/Header";
-import questions from "./data/questions.json";
 import Card from "./components/Card";
 
 import "./App.css";
+import { getQuestions } from "./utils/questions";
 
 const App = () => {
-  const [questionList, setQuestionList] = useState(questions);
+  const [questionList, setQuestionList] = useState(getQuestions());
   const [current, setCurrent] = useState(0);
   const [completed, setCompleted] = useState(0);
   const [finished, setFinished] = useState(false);
@@ -41,7 +41,7 @@ const App = () => {
   };
 
   const onRestart = () => {
-    setQuestionList(questions);
+    setQuestionList(getQuestions());
     setCurrent(0);
     setCompleted(0);
     setFinished(false);
