@@ -9,12 +9,15 @@ const App = () => {
   const [questionList, setQuestionList] = useState(questions);
   const [current, setCurrent] = useState(0);
   const [completed, setCompleted] = useState(0);
+  const [finished, setFinished] = useState(false);
 
   const onSelectOption = (option) => {
     console.log(option);
     setQuestionList(
       questionList.map((question, i) => {
         if (i === current) {
+          setCompleted(completed + 1);
+
           return {
             ...question,
             answered: option,
@@ -34,9 +37,31 @@ const App = () => {
     setCurrent(current + 1);
   };
 
+  const onSubmit = () => {
+    setFinished(true);
+  };
+
+  if (finished) {
+    const score = questionList.filter(
+      (question) => question.answered === question.correct
+    );
+
+    return (
+      <div>
+        <h1>
+          {score.length} / {questionList.length}
+        </h1>
+      </div>
+    );
+  }
+
   return (
     <div>
-      <Header current={current + 1} total={questionList.length} />
+      <Header
+        current={current + 1}
+        completed={completed}
+        total={questionList.length}
+      />
       <Card question={questionList[current]} onSelectOption={onSelectOption} />
       <div className="controls">
         {current > 0 && (
@@ -45,7 +70,9 @@ const App = () => {
           </button>
         )}
         {current >= questionList.length - 1 ? (
-          <button className="submit">Submit</button>
+          <button className="submit" onClick={onSubmit}>
+            Submit
+          </button>
         ) : (
           <button onClick={onNext} className="next">
             Next

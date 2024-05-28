@@ -1,7 +1,16 @@
-const Header = ({ current, total }) => {
+import "./Header.css";
+
+const Header = ({ current, completed, total }) => {
   return (
-    <div>
-      Questions: {current} of {total}
+    <div className="header">
+      <div>
+        <b>Questions: </b>
+        {current} of {total}
+      </div>
+      <div>
+        <b>Completed: </b>
+        {completed} of {total}
+      </div>
     </div>
   );
 };
