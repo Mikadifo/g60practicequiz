@@ -9,7 +9,6 @@ const Card = ({ question, onSelectOption, reviewMode }) => {
           <div key={id}>
             {reviewMode ? (
               <li
-                onClick={() => onSelectOption(id)}
                 className={`${id === question.correct ? "correct" : ""} ${
                   question.correct !== question.answered &&
                   question.answered === id
