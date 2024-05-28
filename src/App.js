@@ -12,7 +12,6 @@ const App = () => {
   const [finished, setFinished] = useState(false);
 
   const onSelectOption = (option) => {
-    console.log(option);
     setQuestionList(
       questionList.map((question, i) => {
         if (i === current) {
@@ -41,6 +40,13 @@ const App = () => {
     setFinished(true);
   };
 
+  const onRestart = () => {
+    setQuestionList(questions);
+    setCurrent(0);
+    setCompleted(0);
+    setFinished(false);
+  };
+
   if (finished) {
     const score = questionList.filter(
       (question) => question.answered === question.correct
@@ -48,9 +54,19 @@ const App = () => {
 
     return (
       <div>
-        <h1>
-          {score.length} / {questionList.length}
+        <h1 className="score">
+          Score
+          <br />
+          <b>{score.length}</b>/ {questionList.length}
         </h1>
+        <div>
+          {questionList.map((question) => (
+            <Card question={question} reviewMode={true} key={question.id} />
+          ))}
+        </div>
+        <button onClick={onRestart} className="restart">
+          Restart
+        </button>
       </div>
     );
   }

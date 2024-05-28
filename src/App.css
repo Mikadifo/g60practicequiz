@@ -32,3 +32,16 @@ button {
   background: blue;
   color: white;
 }
+
+.score {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 24px;
+}
+
+.restart {
+  background: blue;
+  color: white;
+  width: 84%;
+  margin: 32px;
+}
