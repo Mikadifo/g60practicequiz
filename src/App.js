@@ -1,100 +1,36 @@
-import { useState } from "react";
-import Header from "./components/Header";
-import Card from "./components/Card";
-
+import AIQuiz from "./components/AIQuiz";
 import "./App.css";
-import { getQuestions } from "./utils/questions";
+import { useState } from "react";
+import CustomQuiz from "./components/CutomsQuiz";
 
 const App = () => {
-  const [questionList, setQuestionList] = useState(getQuestions());
-  const [current, setCurrent] = useState(0);
-  const [completed, setCompleted] = useState(0);
-  const [finished, setFinished] = useState(false);
+  const [option, setOption] = useState("");
 
-  const onSelectOption = (option) => {
-    setQuestionList(
-      questionList.map((question, i) => {
-        if (i === current) {
-          setCompleted(completed + 1);
-
-          return {
-            ...question,
-            answered: option,
-          };
-        }
-
-        return question;
-      })
-    );
+  const onAIClick = () => {
+    setOption("AI");
   };
 
-  const onPrevious = () => {
-    setCurrent(current - 1);
-  };
-
-  const onNext = () => {
-    setCurrent(current + 1);
-  };
-
-  const onSubmit = () => {
-    setFinished(true);
+  const onPersonClick = () => {
+    setOption("person");
   };
 
   const onRestart = () => {
-    setQuestionList(getQuestions());
-    setCurrent(0);
-    setCompleted(0);
-    setFinished(false);
+    setOption("");
   };
 
-  if (finished) {
-    const score = questionList.filter(
-      (question) => question.answered === question.correct
-    );
+  if (option === "AI") {
+    return <AIQuiz onRestart={onRestart} />;
+  }
 
-    return (
-      <div>
-        <h1 className="score">
-          Score
-          <br />
-          <b>{score.length}</b>/ {questionList.length}
-        </h1>
-        <div>
-          {questionList.map((question) => (
-            <Card question={question} reviewMode={true} key={question.id} />
-          ))}
-        </div>
-        <button onClick={onRestart} className="restart">
-          Restart
-        </button>
-      </div>
-    );
+  if (option === "person") {
+    return <CustomQuiz />;
   }
 
   return (
-    <div>
-      <Header
-        current={current + 1}
-        completed={completed}
-        total={questionList.length}
-      />
-      <Card question={questionList[current]} onSelectOption={onSelectOption} />
-      <div className="controls">
-        {current > 0 && (
-          <button onClick={onPrevious} className="previous">
-            Previous
-          </button>
-        )}
-        {current >= questionList.length - 1 ? (
-          <button className="submit" onClick={onSubmit}>
-            Submit
-          </button>
-        ) : (
-          <button onClick={onNext} className="next">
-            Next
-          </button>
-        )}
-      </div>
+    <div className="menu">
+      <h1>Seleccione una opcion:</h1>
+      <button onClick={onAIClick}>Inteligencia Artificial</button>
+      <button onClick={onPersonClick}>Persona</button>
     </div>
   );
 };

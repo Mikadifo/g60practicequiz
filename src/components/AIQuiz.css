@@ -1,0 +1,40 @@
+button {
+  font-size: 1.5rem;
+  padding: 8px 16px;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 32px;
+}
+
+.previous {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.next {
+  background: green;
+  color: white;
+}
+
+.submit {
+  background: blue;
+  color: white;
+}
+
+.score {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 24px;
+}
+
+.restart {
+  background: blue;
+  color: white;
+  width: 84%;
+  margin: 32px;
+}
