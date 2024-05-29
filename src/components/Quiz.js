@@ -1,12 +1,13 @@
 import { useState } from "react";
 import Header from "./Header";
 import Card from "./Card";
-import { getQuestions } from "./../utils/questions.js";
+import { getCustomQuestions, getQuestions } from "./../utils/questions.js";
+import "./Quiz.css";
 
-import "./AIQuiz.css";
-
-const AIQuiz = ({ onRestart }) => {
-  const [questionList, setQuestionList] = useState(getQuestions());
+const AIQuiz = ({ onRestart, numQuestions }) => {
+  const [questionList, setQuestionList] = useState(
+    numQuestions > 0 ? getCustomQuestions(numQuestions) : getQuestions()
+  );
   const [current, setCurrent] = useState(0);
   const [completed, setCompleted] = useState(0);
   const [finished, setFinished] = useState(false);
@@ -39,13 +40,6 @@ const AIQuiz = ({ onRestart }) => {
   const onSubmit = () => {
     setFinished(true);
   };
-
-  //const onRestart = () => {
-  //setQuestionList(getQuestions());
-  //setCurrent(0);
-  //setCompleted(0);
-  //setFinished(false);
-  //};
 
   if (finished) {
     const score = questionList.filter(

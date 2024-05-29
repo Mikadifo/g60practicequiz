@@ -1,0 +1,1267 @@
+[
+  {
+    "id": 1,
+    "text": "All torch operators, an oxygen-fuel torch using any amount of oxygen and flammable gas and fire guards must have a current",
+    "options": [
+      { "id": "a", "option": "Certificate of Fitness" },
+      { "id": "b", "option": "Fire Safety Certificate" },
+      { "id": "c", "option": "Work Permit" },
+      { "id": "d", "option": "Hot Work Permit" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 2,
+    "text": "The Certificate of Fitness holder:",
+    "options": [
+      {
+        "id": "a",
+        "option": "must regulate the pressure and flow of oxygen and natural gas to each torch."
+      },
+      {
+        "id": "b",
+        "option": "must only operate the torch during daylight hours."
+      },
+      {
+        "id": "c",
+        "option": "should store oxygen and fuel gas containers together."
+      },
+      {
+        "id": "d",
+        "option": "is responsible for refilling gas containers on-site."
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 3,
+    "text": "If the torch operator for jewelry manufacture involves any oxygen with any fuel gas containers, the operator must be a",
+    "options": [
+      { "id": "a", "option": "Fire Guard" },
+      { "id": "b", "option": "Supervisor" },
+      { "id": "c", "option": "Certificate of Fitness holder" },
+      { "id": "d", "option": "Safety Officer" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 4,
+    "text": "A Certificate of Fitness Holder must keep his or her certificate",
+    "options": [
+      { "id": "a", "option": "In the office" },
+      { "id": "b", "option": "At home" },
+      {
+        "id": "c",
+        "option": "On their person or readily available for inspection"
+      },
+      { "id": "d", "option": "In a safety deposit box" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 5,
+    "text": "The easiest way to extinguish a fire caused by a leak is to",
+    "options": [
+      { "id": "a", "option": "Use a fire extinguisher" },
+      { "id": "b", "option": "Throw water on it" },
+      { "id": "c", "option": "Close the shutoff valve" },
+      { "id": "d", "option": "Smother it with a blanket" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 6,
+    "text": "Permits issued by the FDNY are required to conduct the following hot work: storing, using or handling any flammable gas (e.g. LPG or CNG or acetylene) in excess of",
+    "options": [
+      { "id": "a", "option": "100 SCF" },
+      { "id": "b", "option": "200 SCF" },
+      { "id": "c", "option": "400 SCF" },
+      { "id": "d", "option": "500 SCF" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 7,
+    "text": "For LPG, 400 SCF is approximately",
+    "options": [
+      { "id": "a", "option": "27 lbs" },
+      { "id": "b", "option": "37 lbs" },
+      { "id": "c", "option": "47 lbs" },
+      { "id": "d", "option": "57 lbs" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 8,
+    "text": "The number of LPG containers for the storage, use, handling or transportation, requiring a permit for 14.1 oz is",
+    "options": [
+      { "id": "a", "option": "44 containers" },
+      { "id": "b", "option": "54 containers" },
+      { "id": "c", "option": "64 containers" },
+      { "id": "d", "option": "74 containers" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "text": "Portable LPG containers that are more than 16.4 oz and CNG containers with a capacity greater than 8.7 SCF must NOT be stored, handled, or used indoors in the following occupancies (except as the commissioner may authorize by rule):",
+    "options": [
+      {
+        "id": "a",
+        "option": "Residential, factory, educational, institutional"
+      },
+      {
+        "id": "b",
+        "option": "Commercial, industrial, recreational, residential"
+      },
+      { "id": "c", "option": "Warehouse, office, retail, institutional" },
+      { "id": "d", "option": "Educational, commercial, industrial, warehouse" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 10,
+    "text": "A site-specific permit may be a permanent permit or a temporary permit. Permanent permits are valid for",
+    "options": [
+      { "id": "a", "option": "6 months" },
+      { "id": "b", "option": "9 months" },
+      { "id": "c", "option": "12 months" },
+      { "id": "d", "option": "18 months" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 11,
+    "text": "A city-wide permit is valid for up to",
+    "options": [
+      { "id": "a", "option": "15 days" },
+      { "id": "b", "option": "20 days" },
+      { "id": "c", "option": "25 days" },
+      { "id": "d", "option": "30 days" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 12,
+    "text": "Permits shall be readily available on the premise for inspection by",
+    "options": [
+      { "id": "a", "option": "Fire Department representatives" },
+      { "id": "b", "option": "Building inspectors" },
+      { "id": "c", "option": "Insurance agents" },
+      { "id": "d", "option": "Health and safety officers" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 13,
+    "text": "Hot work authorization should be issued by the responsible person, and it must be available for inspection by any representative of the department during the performance of the work, and for",
+    "options": [
+      { "id": "a", "option": "24 hours after the work is complete" },
+      { "id": "b", "option": "36 hours after the work is complete" },
+      { "id": "c", "option": "48 hours after the work is complete" },
+      { "id": "d", "option": "72 hours after the work is complete" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 14,
+    "text": "FDNY permits will be posted in a ______ and recorded in a ______ to assist in the coordination of ______.",
+    "options": [
+      {
+        "id": "a",
+        "option": "central location, log book, construction related activities"
+      },
+      {
+        "id": "b",
+        "option": "designated office, notebook, fire safety drills"
+      },
+      { "id": "c", "option": "main entrance, journal, emergency evacuations" },
+      { "id": "d", "option": "safety box, digital file, daily operations" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 15,
+    "text": "CNG stands for",
+    "options": [
+      { "id": "a", "option": "Condensed Natural Gas" },
+      { "id": "b", "option": "Compressed Natural Gas" },
+      { "id": "c", "option": "Controlled Natural Gas" },
+      { "id": "d", "option": "Clean Natural Gas" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "text": "For Citywide hot work operations, the Owner of the premises must be notified in writing at least _____ hours in advance prior to work beginning.",
+    "options": [
+      { "id": "a", "option": "24" },
+      { "id": "b", "option": "36" },
+      { "id": "c", "option": "48" },
+      { "id": "d", "option": "72" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 17,
+    "text": "A class A fire extinguisher fights fires from",
+    "options": [
+      { "id": "a", "option": "Electrical equipment" },
+      { "id": "b", "option": "Oil" },
+      { "id": "c", "option": "Paper" },
+      { "id": "d", "option": "Flammable metals" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 18,
+    "text": "How old must a candidate be in order to earn a Certificate of Fitness?",
+    "options": [
+      { "id": "a", "option": "16 years old" },
+      { "id": "b", "option": "17 years old" },
+      { "id": "c", "option": "18 years old" },
+      { "id": "d", "option": "21 years old" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 19,
+    "text": "What type of fire is a Class B fire extinguisher used on?",
+    "options": [
+      { "id": "a", "option": "Wood" },
+      { "id": "b", "option": "Oil" },
+      { "id": "c", "option": "Paper" },
+      { "id": "d", "option": "Electrical equipment" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "text": "Examples of combustibles include",
+    "options": [
+      { "id": "a", "option": "Newspaper" },
+      { "id": "b", "option": "Steel" },
+      { "id": "c", "option": "Glass" },
+      { "id": "d", "option": "Water" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 21,
+    "text": "An example of a flammable material would be",
+    "options": [
+      { "id": "a", "option": "Water" },
+      { "id": "b", "option": "Gasoline" },
+      { "id": "c", "option": "Glass" },
+      { "id": "d", "option": "Metal" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 22,
+    "text": "Fire extinguishers must be inspected once every",
+    "options": [
+      { "id": "a", "option": "Day" },
+      { "id": "b", "option": "Week" },
+      { "id": "c", "option": "Month" },
+      { "id": "d", "option": "Year" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 23,
+    "text": "A work area should be",
+    "options": [
+      { "id": "a", "option": "Dark" },
+      { "id": "b", "option": "Enclosed" },
+      { "id": "c", "option": "Hot" },
+      { "id": "d", "option": "Well Ventilated" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 24,
+    "text": "A type C fire involves",
+    "options": [
+      { "id": "a", "option": "Wood" },
+      { "id": "b", "option": "Oil" },
+      { "id": "c", "option": "Paper" },
+      { "id": "d", "option": "Live electrical equipment" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 25,
+    "text": "Automatic sprinkler heads should be",
+    "options": [
+      {
+        "id": "a",
+        "option": "Covered by a damp cloth and removed after hot work"
+      },
+      { "id": "b", "option": "Painted over" },
+      { "id": "c", "option": "Disconnected" },
+      { "id": "d", "option": "Left exposed" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 26,
+    "text": "A permit is required for storing a flammable gas in excess of",
+    "options": [
+      { "id": "a", "option": "100 scf" },
+      { "id": "b", "option": "200 scf" },
+      { "id": "c", "option": "300 scf" },
+      { "id": "d", "option": "400 scf" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 27,
+    "text": "Acetylene burns at",
+    "options": [
+      { "id": "a", "option": "2000 degrees Fahrenheit" },
+      { "id": "b", "option": "2500 degrees Fahrenheit" },
+      { "id": "c", "option": "3000 degrees Fahrenheit" },
+      { "id": "d", "option": "3500 degrees Fahrenheit" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 28,
+    "text": "It is dangerous to use fuel gas at pressures above",
+    "options": [
+      { "id": "a", "option": "10 psi" },
+      { "id": "b", "option": "15 psi" },
+      { "id": "c", "option": "20 psi" },
+      { "id": "d", "option": "25 psi" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 29,
+    "text": "A fire extinguisher must be mounted so that the top is not more than",
+    "options": [
+      { "id": "a", "option": "3 feet off the floor" },
+      { "id": "b", "option": "4 feet off the floor" },
+      { "id": "c", "option": "5 feet off the floor" },
+      { "id": "d", "option": "6 feet off the floor" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 30,
+    "text": "To extinguish a fire",
+    "options": [
+      { "id": "a", "option": "Always approach the fire from downwind" },
+      { "id": "b", "option": "Always approach the fire from upwind" },
+      { "id": "c", "option": "Use a fan to blow the fire out" },
+      { "id": "d", "option": "Run away" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 31,
+    "text": "PASS stands for",
+    "options": [
+      { "id": "a", "option": "Pull, Aim, Squeeze, Sweep" },
+      { "id": "b", "option": "Push, Aim, Squeeze, Sweep" },
+      { "id": "c", "option": "Pull, Align, Squeeze, Sweep" },
+      { "id": "d", "option": "Push, Align, Squeeze, Sweep" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 32,
+    "text": "In the case of any fire",
+    "options": [
+      { "id": "a", "option": "The FDNY must be notified" },
+      { "id": "b", "option": "The police must be notified" },
+      { "id": "c", "option": "The building manager must be notified" },
+      { "id": "d", "option": "The insurance company must be notified" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 33,
+    "text": "For piped gas,",
+    "options": [
+      { "id": "a", "option": "The gas should be turned on first" },
+      { "id": "b", "option": "The gas should be shut off first" },
+      { "id": "c", "option": "The gas should be left as is" },
+      { "id": "d", "option": "The gas should be increased" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 34,
+    "text": "Oxygen cylinders are made of",
+    "options": [
+      { "id": "a", "option": "Aluminum" },
+      { "id": "b", "option": "Steel" },
+      { "id": "c", "option": "Plastic" },
+      { "id": "d", "option": "Copper" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 35,
+    "text": "A temporary permit to conduct torch operations is valid from",
+    "options": [
+      { "id": "a", "option": "1 day to 6 months" },
+      { "id": "b", "option": "1 day to 9 months" },
+      { "id": "c", "option": "1 day to 12 months" },
+      { "id": "d", "option": "1 day to 18 months" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 36,
+    "text": "A hot work permit is required for",
+    "options": [
+      { "id": "a", "option": "Painting" },
+      { "id": "b", "option": "Welding" },
+      { "id": "c", "option": "Cleaning" },
+      { "id": "d", "option": "Carpentry" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 37,
+    "text": "A spark producing tool",
+    "options": [
+      { "id": "a", "option": "Requires a Fire Guard" },
+      { "id": "b", "option": "Requires a Fire Extinguisher" },
+      { "id": "c", "option": "Requires a Safety Helmet" },
+      { "id": "d", "option": "Requires a Warning Sign" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 38,
+    "text": "Soldering and brazing temperatures are typically",
+    "options": [
+      { "id": "a", "option": "640 degrees Fahrenheit" },
+      { "id": "b", "option": "740 degrees Fahrenheit" },
+      { "id": "c", "option": "840 degrees Fahrenheit" },
+      { "id": "d", "option": "940 degrees Fahrenheit" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 39,
+    "text": "Oxy-Acetylene can generate a temperature of up to",
+    "options": [
+      { "id": "a", "option": "4000 degrees Fahrenheit" },
+      { "id": "b", "option": "5000 degrees Fahrenheit" },
+      { "id": "c", "option": "6000 degrees Fahrenheit" },
+      { "id": "d", "option": "7000 degrees Fahrenheit" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 40,
+    "text": "An area exposed to sparks, hot slag, radiant heat, or convective heat as a result of welding is called a",
+    "options": [
+      { "id": "a", "option": "Cold Work Area" },
+      { "id": "b", "option": "Safe Zone" },
+      { "id": "c", "option": "Hot Work Area" },
+      { "id": "d", "option": "Danger Zone" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 41,
+    "text": "A person holding a Certificate of Fitness who is trained and responsible for maintaining a fire watch is known as a",
+    "options": [
+      { "id": "a", "option": "Safety Supervisor" },
+      { "id": "b", "option": "Fire Guard" },
+      { "id": "c", "option": "Safety Inspector" },
+      { "id": "d", "option": "Fire Marshal" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 42,
+    "text": "Most fires are the result of",
+    "options": [
+      { "id": "a", "option": "Sparks" },
+      { "id": "b", "option": "Chemical Reactions" },
+      { "id": "c", "option": "Leakages" },
+      { "id": "d", "option": "Having the necessary precautions" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 43,
+    "text": "What should you do if ice buildup occurs on the gas cylinder itself?",
+    "options": [
+      { "id": "a", "option": "Ignore it" },
+      { "id": "b", "option": "Warm it with a flame" },
+      { "id": "c", "option": "Call 911 immediately" },
+      { "id": "d", "option": "Wrap it in a blanket" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 44,
+    "text": "If a Certificate of Fitness holder discovers that an oxygen regulator is defective, they should",
+    "options": [
+      { "id": "a", "option": "Try to fix it themselves" },
+      { "id": "b", "option": "Ignore it" },
+      { "id": "c", "option": "Take it out of service" },
+      { "id": "d", "option": "Use it carefully" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 45,
+    "text": "If a gas container is unmarked, the certificate of fitness holder should",
+    "options": [
+      { "id": "a", "option": "Use it anyway" },
+      { "id": "b", "option": "Label it themselves" },
+      { "id": "c", "option": "Take the cylinder out of service" },
+      { "id": "d", "option": "Ignore the label" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 46,
+    "text": "What tank condition would be cause to remove it from service?",
+    "options": [
+      { "id": "a", "option": "Slight rust" },
+      { "id": "b", "option": "New paint" },
+      { "id": "c", "option": "Visible dents" },
+      { "id": "d", "option": "Pressure relief valve shows visible damage" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 47,
+    "text": "Permits issued by the FDNY are required to conduct the following hot work: storing, using or handling any oxidizing gas (e.g. oxygen) in excess of",
+    "options": [
+      { "id": "a", "option": "304 SCF" },
+      { "id": "b", "option": "204 SCF" },
+      { "id": "c", "option": "404 SCF" },
+      { "id": "d", "option": "504 SCF" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 48,
+    "text": "The number of LPG containers for the storage, use, handling or transportation, requiring a permit for 16.4 oz is",
+    "options": [
+      { "id": "a", "option": "46 containers" },
+      { "id": "b", "option": "50 containers" },
+      { "id": "c", "option": "40 containers" },
+      { "id": "d", "option": "30 containers" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 49,
+    "text": "The number of LPG containers for the storage, use, handling or transportation, requiring a permit for 20 lbs is",
+    "options": [
+      { "id": "a", "option": "5 containers" },
+      { "id": "b", "option": "2 containers" },
+      { "id": "c", "option": "3 containers" },
+      { "id": "d", "option": "4 containers" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 50,
+    "text": "The number of LPG containers for the storage, use, handling or transportation, requiring a permit for 33.5 lbs is",
+    "options": [
+      { "id": "a", "option": "2 containers" },
+      { "id": "b", "option": "1 container" },
+      { "id": "c", "option": "3 containers" },
+      { "id": "d", "option": "4 containers" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 51,
+    "text": "The number of LPG containers for the storage, use, handling or transportation, requiring a permit for 40 lbs is",
+    "options": [
+      { "id": "a", "option": "1 container" },
+      { "id": "b", "option": "3 containers" },
+      { "id": "c", "option": "4 containers" },
+      { "id": "d", "option": "2 containers" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 52,
+    "text": "The number of LPG containers for the storage, use, handling or transportation, requiring a permit for 100 lbs is",
+    "options": [
+      { "id": "a", "option": "2 containers" },
+      { "id": "b", "option": "1 container" },
+      { "id": "c", "option": "3 containers" },
+      { "id": "d", "option": "4 containers" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 53,
+    "text": "A control valve should be",
+    "options": [
+      { "id": "a", "option": "Operated using a remote control" },
+      { "id": "b", "option": "Opened by hand" },
+      { "id": "c", "option": "Activated by foot pedal" },
+      { "id": "d", "option": "Never opened" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 54,
+    "text": "Persons conducting Torch Operations must possess a current",
+    "options": [
+      { "id": "a", "option": "G-60 Certificate of Fitness" },
+      { "id": "b", "option": "Driver's License" },
+      { "id": "c", "option": "First Aid Certification" },
+      { "id": "d", "option": "Passport" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 55,
+    "text": "A rapid, persistent chemical reaction that releases heat and light, especially the burning of a combustible substance in the presence of oxygen.",
+    "options": [
+      { "id": "a", "option": "A Fire" },
+      { "id": "b", "option": "A Detonation" },
+      { "id": "c", "option": "A Chemical Reaction" },
+      { "id": "d", "option": "A Spill" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 56,
+    "text": "When a cutting or welding flame burns inside a torch is known as",
+    "options": [
+      { "id": "a", "option": "Ignition" },
+      { "id": "b", "option": "Explosion" },
+      { "id": "c", "option": "Backfire" },
+      { "id": "d", "option": "Flashback" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 57,
+    "text": "A written statement issued by the commissioner certifying that the person to whom it is issued has passed an examination as to his or her qualifications or is otherwise deemed qualified to use or supervise the storage, handling and use of a material",
+    "options": [
+      { "id": "a", "option": "Certificate of Fitness" },
+      { "id": "b", "option": "Driver's License" },
+      { "id": "c", "option": "Insurance Policy" },
+      { "id": "d", "option": "Safety Manual" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 58,
+    "text": "What type of fire is a Class A fire extinguisher used on?",
+    "options": [
+      { "id": "a", "option": "Cardboard" },
+      { "id": "b", "option": "Oil" },
+      { "id": "c", "option": "Electrical Equipment" },
+      { "id": "d", "option": "Metal" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 59,
+    "text": "An example of a flammable material would be",
+    "options": [
+      { "id": "a", "option": "Glass" },
+      { "id": "b", "option": "Water" },
+      { "id": "c", "option": "Steel" },
+      { "id": "d", "option": "Kerosene" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 60,
+    "text": "Fire extinguishers must be maintained by a W-96 Certificate of Fitness holder every",
+    "options": [
+      { "id": "a", "option": "Month" },
+      { "id": "b", "option": "Year" },
+      { "id": "c", "option": "Week" },
+      { "id": "d", "option": "Day" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 61,
+    "text": "A type D fire involves",
+    "options": [
+      { "id": "a", "option": "Wood" },
+      { "id": "b", "option": "Electrical Equipment" },
+      { "id": "c", "option": "Combustible Metals" },
+      { "id": "d", "option": "Paper" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 62,
+    "text": "A type of clothing that should not be worn when performing torch operations is",
+    "options": [
+      { "id": "a", "option": "Frayed Clothing" },
+      { "id": "b", "option": "Fire-resistant Clothing" },
+      { "id": "c", "option": "Protective Gloves" },
+      { "id": "d", "option": "Safety Boots" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 63,
+    "text": "A flame going out unexpectedly and creating a popping sound is known as",
+    "options": [
+      { "id": "a", "option": "Ignition" },
+      { "id": "b", "option": "Explosion" },
+      { "id": "c", "option": "Backfire" },
+      { "id": "d", "option": "Flashback" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 64,
+    "text": "\"SCF\" stands for",
+    "options": [
+      { "id": "a", "option": "Standard Cubic Force" },
+      { "id": "b", "option": "Standard Cubic Feet" },
+      { "id": "c", "option": "Super Cubic Feet" },
+      { "id": "d", "option": "Single Cubic Foot" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 65,
+    "text": "To check for a leak one should",
+    "options": [
+      { "id": "a", "option": "Feel the temperature of the area" },
+      { "id": "b", "option": "Check the weather forecast" },
+      { "id": "c", "option": "Use a soap and water solution" },
+      { "id": "d", "option": "Shake the gas cylinder" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 66,
+    "text": "A fire extinguisher must be mounted",
+    "options": [
+      { "id": "a", "option": "Horizontally" },
+      { "id": "b", "option": "On the ceiling" },
+      { "id": "c", "option": "On the floor" },
+      {
+        "id": "d",
+        "option": "so that the top is not more than 5 feet off the floor"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 67,
+    "text": "How should a gas cylinder be stored?",
+    "options": [
+      { "id": "a", "option": "Laying on its side" },
+      { "id": "b", "option": "Upright and not on shelves" },
+      { "id": "c", "option": "Stacked on top of each other" },
+      { "id": "d", "option": "In a ventilated cabinet" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 68,
+    "text": "Acetylene valves should not be opened more than",
+    "options": [
+      { "id": "a", "option": "1/4 turn" },
+      { "id": "b", "option": "1/2 turn" },
+      { "id": "c", "option": "1 turn" },
+      { "id": "d", "option": "1 1/2 turns" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 73,
+    "text": "To prevent injury, hoses should be",
+    "options": [
+      { "id": "a", "option": "As long as possible" },
+      { "id": "b", "option": "As short as practical" },
+      { "id": "c", "option": "Wrapped around equipment" },
+      { "id": "d", "option": "Tied together" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 74,
+    "text": "The oxygen cylinder",
+    "options": [
+      { "id": "a", "option": "Is made of aluminum" },
+      { "id": "b", "option": "Is made of plastic" },
+      { "id": "c", "option": "Is made of steel and contains 100% oxygen" },
+      { "id": "d", "option": "Is made of glass" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 75,
+    "text": "A compressed gas container must",
+    "options": [
+      { "id": "a", "option": "Be rolled on its side" },
+      { "id": "b", "option": "Be stored near flammable materials" },
+      { "id": "c", "option": "Not be rolled on its side" },
+      { "id": "d", "option": "Be stored in direct sunlight" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 77,
+    "text": "Fuel gas or oxygen containers in storage must be separated from any combustible materials by a minimum distance of",
+    "options": [
+      { "id": "a", "option": "10 feet" },
+      { "id": "b", "option": "15 feet" },
+      { "id": "c", "option": "20 feet" },
+      { "id": "d", "option": "25 feet" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 79,
+    "text": "Sparks and pieces of hot metal are the source of ignition in about______ of fires in industrial occupancies.",
+    "options": [
+      { "id": "a", "option": "40%" },
+      { "id": "b", "option": "50%" },
+      { "id": "c", "option": "60%" },
+      { "id": "d", "option": "70%" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 80,
+    "text": "Under no circumstances can hot work be performed within _____ feet of flammable or explosive materials.",
+    "options": [
+      { "id": "a", "option": "15 feet" },
+      { "id": "b", "option": "25 feet" },
+      { "id": "c", "option": "35 feet" },
+      { "id": "d", "option": "45 feet" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 81,
+    "text": "If torch operation is to be discontinued for a period of ___________, the torch valve must be closed and the gas supply to the torch must be completely shut.",
+    "options": [
+      { "id": "a", "option": "30 minutes or more" },
+      { "id": "b", "option": "45 minutes or more" },
+      { "id": "c", "option": "One hour or more" },
+      { "id": "d", "option": "Two hours or more" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 82,
+    "text": "A torch should be ignited by using a",
+    "options": [
+      { "id": "a", "option": "Matchstick" },
+      { "id": "b", "option": "Lighter" },
+      { "id": "c", "option": "Friction device" },
+      { "id": "c", "option": "Flame from another torch" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 83,
+    "text": "Why should oil or grease not be used near oxygen?",
+    "options": [
+      { "id": "a", "option": "Oil or grease can be safely used near oxygen " },
+      { "id": "b", "option": "It might cause corrosion" },
+      { "id": "c", "option": "It might cause an explosion" },
+      { "id": "d", "option": "It might cause a leak" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 85,
+    "text": "How many Fire Guards are required on a job site that has 3 torches in operation?",
+    "options": [
+      { "id": "a", "option": "One per torch" },
+      { "id": "b", "option": "Two per torch" },
+      { "id": "c", "option": "Three per torch" },
+      {
+        "id": "d",
+        "option": "One per torch and additional one stationed on the floor below"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 86,
+    "text": "Portable LPG containers greater than ______ must not be stored in residential occupancies.",
+    "options": [
+      { "id": "a", "option": "5 lbs" },
+      { "id": "b", "option": "10 lbs" },
+      { "id": "c", "option": "16.4 oz" },
+      { "id": "d", "option": "20 lbs" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 87,
+    "text": "An oxygen cylinder may store gas at pressure up to",
+    "options": [
+      { "id": "a", "option": "1000 psi" },
+      { "id": "b", "option": "1500 psi" },
+      { "id": "c", "option": "2000 psi" },
+      { "id": "d", "option": "2200 psi" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 88,
+    "text": "A Responsible Person is one who is ____in the fire safety hazards associated with hot work, and in the necessary and appropriate measures to _____ those hazards, who is designated by _____ to authorize the performance of hot work at the premises.",
+    "options": [
+      { "id": "a", "option": "Familiar, explain, by the Fire Department" },
+      {
+        "id": "b",
+        "option": "Knowledgeable, understand, by the building owner"
+      },
+      { "id": "c", "option": "Skilled, help with, by the Department of Labor" },
+      { "id": "d", "option": "Trained, minimize, by the owner of a premises" }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 89,
+    "text": "A designated Hot Work area must be at least_______ feet away from combustible materials.",
+    "options": [
+      { "id": "a", "option": "15" },
+      { "id": "b", "option": "25" },
+      { "id": "c", "option": "35" },
+      { "id": "d", "option": "45" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 90,
+    "text": "For all Hot Work, inspections must be completed_______ after completion of torch operations.",
+    "options": [
+      { "id": "a", "option": "15 minutes" },
+      { "id": "b", "option": "30 minutes" },
+      { "id": "c", "option": "45 minutes" },
+      { "id": "d", "option": "60 minutes" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 91,
+    "text": "A minimum ___________ rating Fire Extinguisher must be readily accessible within ________ of the hot work location for torch operations.",
+    "options": [
+      { "id": "a", "option": "1-A : 5-B : C, 15 feet" },
+      { "id": "b", "option": "2-A : 10-B : C, 20 feet" },
+      { "id": "c", "option": "2-A : 20-B : C, 30 feet" },
+      { "id": "d", "option": "3-A : 30-B : C, 40 feet" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 92,
+    "text": "For a Torch-applied Roof System, a minimum ___________ rating Fire Extinguisher must be readily accessible within ________.",
+    "options": [
+      { "id": "a", "option": "1-A : 5-B : C, 15 feet" },
+      { "id": "b", "option": "2-A : 10-B : C, 20 feet" },
+      { "id": "c", "option": "3-A : 40-B : C, 30 feet" },
+      { "id": "d", "option": "4-A : 40-B : C, 50 feet" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 93,
+    "text": "Empty compressed gas cylinders",
+    "options": [
+      { "id": "a", "option": "Should be handled with bare hands" },
+      {
+        "id": "b",
+        "option": "Don't follow the same handling measures as the full ones"
+      },
+      { "id": "c", "option": "Can be rolled on their side" },
+      {
+        "id": "d",
+        "option": "Should be handled in the same manner as full ones"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 94,
+    "text": "A Panic Bar is",
+    "options": [
+      { "id": "a", "option": "A device used to call the Fire Department" },
+      { "id": "b", "option": "A device used to detect smoke" },
+      {
+        "id": "c",
+        "option": "A device fitted on the inside of a door that would allow a person to push against a door to open it"
+      },
+      {
+        "id": "d",
+        "option": "A device used to alert occupants of a building about a fire"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 95,
+    "text": "A type of valve typically used in sprinkler systems",
+    "options": [
+      { "id": "a", "option": "IS & Check Valve" },
+      { "id": "b", "option": "OS & Y Valve: Outside Screw and Yoke Valve" },
+      { "id": "c", "option": "Butterfly Valve" },
+      { "id": "d", "option": "Pressure Relief Valve" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 96,
+    "text": "Fire Drill is",
+    "options": [
+      {
+        "id": "a",
+        "option": "A drill to extinguish fires causing in a hot work area"
+      },
+      {
+        "id": "b",
+        "option": "A training exercise for building occupants during a fire, in accordance with the fire safety and evacuation plan"
+      },
+      {
+        "id": "c",
+        "option": "A demonstration of fire safety equipment provided by the owner of the building"
+      },
+      {
+        "id": "d",
+        "option": "A test of fire alarms installed in the building in accordance with the fire safety and evacuation plan"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 97,
+    "text": "Shall not be considered a fire",
+    "options": [
+      {
+        "id": "a",
+        "option": "A fire created by the operators to keep them warm"
+      },
+      {
+        "id": "b",
+        "option": "Flame used in any lawful, properly operating device, equipment or system or other controlled setting"
+      },
+      { "id": "c", "option": "Flashbacks generated when using the torch" },
+      { "id": "d", "option": "Flames generated by electrical equipment" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 98,
+    "text": "A Fire Watch is a ______ measure intended to ensure continuous and systematic surveillance of a building or portion thereof by one or more ______ for the purposes of identifying and controlling _______,  detecting early signs of fire, raising an alarm of fire and notifying the department.",
+    "options": [
+      { "id": "a", "option": "permanent, residents, fire hazards" },
+      { "id": "b", "option": "temporary, qualified individuals, fire hazards" },
+      { "id": "c", "option": "permanent, qualified individuals, smoke" },
+      { "id": "d", "option": "temporary, residents, smoke" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 99,
+    "text": "Hot Work is",
+    "options": [
+      { "id": "a", "option": "A method to heat buildings" },
+      {
+        "id": "b",
+        "option": "Cutting, welding, thermit welding, brazing, soldering, grinding, thermal spraying, thawing pipe, cad welding, installation of torch-applied system, or any other similar operation or activity."
+      },
+      { "id": "c", "option": "A type of fire protection system" },
+      { "id": "d", "option": "A type of industrial cleaning process" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 100,
+    "text": "Torch Applied Roof-System is",
+    "options": [
+      { "id": "a", "option": "A method to repair roofs" },
+      { "id": "b", "option": "A type of firefighting equipment" },
+      {
+        "id": "c",
+        "option": "Bituminous roofing systems using membranes that are adhered by heating with a torch and melting asphalt back coating instead of mopping hot asphalt for adhesion."
+      },
+      { "id": "d", "option": "A system to detect roof fires" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 101,
+    "text": "What is Egress?",
+    "options": [
+      { "id": "a", "option": "A type of fire alarm" },
+      { "id": "b", "option": "A method of fire suppression" },
+      { "id": "c", "option": "A means of exit during a fire or emergency" },
+      { "id": "d", "option": "A fire extinguisher" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 102,
+    "text": "Single Action fire alarm pull station requires the user to simply ____ a lever or break glass to activate the alarm. This type is commonly used ____.",
+    "options": [
+      { "id": "a", "option": "pull, outdoors" },
+      { "id": "b", "option": "pull, indoors" },
+      { "id": "c", "option": "push, indoors" },
+      { "id": "d", "option": "push, outdoors" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 103,
+    "text": "Double Action fire alarm pull station requires the user to take two steps in order to activate the alarm such as _____ a cover and then ______ a lever. This type of alarm is commonly used _____.",
+    "options": [
+      { "id": "a", "option": "lifting, pulling, outside" },
+      { "id": "b", "option": "breaking, pushing, inside" },
+      { "id": "c", "option": "breaking, pulling, inside" },
+      { "id": "d", "option": "lifting, pushing, outside" }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 104,
+    "text": "All gas containers and the related equipment",
+    "options": [
+      { "id": "a", "option": "Must be kept in direct sunlight" },
+      { "id": "b", "option": "Must be stored in a cool, dry place" },
+      {
+        "id": "c",
+        "option": "Must be protected from extreme temperature and physical damage"
+      },
+      { "id": "d", "option": "Must be handled without gloves" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 105,
+    "text": "Any single standard portable LPG container must not exceed",
+    "options": [
+      { "id": "a", "option": "50 lbs in weight" },
+      { "id": "b", "option": "100 lbs in weight" },
+      { "id": "c", "option": "150 lbs in weight" },
+      { "id": "d", "option": "200 lbs in weight" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 106,
+    "text": "Any single CNG container must not exceed",
+    "options": [
+      { "id": "a", "option": "281 SCF" },
+      { "id": "b", "option": "331 SCF" },
+      { "id": "c", "option": "381 SCF" },
+      { "id": "d", "option": "431 SCF" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 107,
+    "text": "NFPA stands for",
+    "options": [
+      { "id": "a", "option": "National Firefighting Policy Association" },
+      { "id": "b", "option": "National Fire Protection Agency" },
+      {
+        "id": "c",
+        "option": "National Fire Protection Association"
+      },
+      { "id": "d", "option": "National Firefighters Association" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 108,
+    "text": "Most common fuel gasses used in blowtorches are",
+    "options": [
+      { "id": "a", "option": "Propane and any other flammable gasses" },
+      { "id": "b", "option": "Methane and acetylene" },
+      {
+        "id": "c",
+        "option": "LPG (butane, propane), natural gas (methane) (either CNG or piped natural gas)."
+      },
+      { "id": "d", "option": "Ethylene, Methane, and Oxygen" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 109,
+    "text": "A fire guard is responsible for",
+    "options": [
+      { "id": "a", "option": "Enforcing building codes" },
+      { "id": "b", "option": "Supervising electrical work" },
+      { "id": "c", "option": "Overseeing torch operations" },
+      { "id": "d", "option": "Managing construction materials" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 110,
+    "text": "The pre-hot work check must be conducted by",
+    "options": [
+      { "id": "a", "option": "The fire department once per week" },
+      { "id": "b", "option": "A licensed contractor and only once per day" },
+      {
+        "id": "c",
+        "option": "The responsible person before hot work is authorized and at least once per day"
+      },
+      {
+        "id": "d",
+        "option": "A building inspector after hot work is finished and at least once per month"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 111,
+    "text": "The check reports must be kept at the work site maintained on the premises for a minimum of",
+    "options": [
+      { "id": "a", "option": "48 hours after work is complete." },
+      { "id": "b", "option": "24 hours after work is complete." },
+      { "id": "c", "option": "4 days before work is complete." },
+      { "id": "d", "option": "48 hours before work is complete." }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 112,
+    "text": "Exhaust fans",
+    "options": [
+      { "id": "a", "option": "Can be used to extinguish a fire" },
+      { "id": "b", "option": "Should only be used indoors" },
+      {
+        "id": "c",
+        "option": "May be used to draw the fumes away from the work area"
+      },
+      { "id": "d", "option": "Are unnecessary in hot work areas" }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 113,
+    "text": "The workers should",
+    "options": [
+      { "id": "a", "option": "Wear clothing with pockets or cuffs" },
+      {
+        "id": "b",
+        "option": "Avoid wearing gloves and aprons and wear clothing with pockets and cuffs"
+      },
+      {
+        "id": "c",
+        "option": "Wear flame resistant gloves and aprons and should not be worn clothing with pockets or cuffs"
+      },
+      { "id": "d", "option": "Wear loose-fitting clothing" }
+    ],
+    "correct": "c"
+  }
+]

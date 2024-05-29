@@ -1,7 +1,7 @@
-import AIQuiz from "./components/AIQuiz";
+import Quiz from "./components/Quiz";
 import "./App.css";
 import { useState } from "react";
-import CustomQuiz from "./components/CutomsQuiz";
+import CustomQuiz from "./components/CustomQuiz";
 
 const App = () => {
   const [option, setOption] = useState("");
@@ -19,11 +19,11 @@ const App = () => {
   };
 
   if (option === "AI") {
-    return <AIQuiz onRestart={onRestart} />;
+    return <Quiz onRestart={onRestart} numQuestions={0} />;
   }
 
   if (option === "person") {
-    return <CustomQuiz />;
+    return <CustomQuiz onRestart={onRestart} />;
   }
 
   return (

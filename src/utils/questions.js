@@ -1,4 +1,5 @@
 import questions from "./../data/questions.json";
+import customQuestions from "./../data/customQuestions.json";
 
 const shuffle = (array) => {
   let currentIndex = array.length;
@@ -17,4 +18,9 @@ const shuffle = (array) => {
 export const getQuestions = () => {
   shuffle(questions);
   return questions;
+};
+
+export const getCustomQuestions = (number) => {
+  shuffle(customQuestions);
+  return customQuestions.slice(0, number);
 };

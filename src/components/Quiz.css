@@ -10,6 +10,7 @@ button {
   display: flex;
   justify-content: space-between;
   margin: 0 32px;
+  margin-bottom: 64px;
 }
 
 .previous {

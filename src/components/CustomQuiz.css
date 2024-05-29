@@ -1,0 +1,25 @@
+.menu-options {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 32px;
+  height: 100vh;
+}
+
+.menu-options > h1 {
+  text-align: center;
+}
+
+.menu-options > div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+
+.menu-options button {
+  background: blue;
+  color: white;
+  padding: 16px 32px;
+  border-radius: 24px;
+}
