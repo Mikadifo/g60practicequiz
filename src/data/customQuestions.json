@@ -864,7 +864,7 @@
       { "id": "a", "option": "Matchstick" },
       { "id": "b", "option": "Lighter" },
       { "id": "c", "option": "Friction device" },
-      { "id": "c", "option": "Flame from another torch" }
+      { "id": "d", "option": "Flame from another torch" }
     ],
     "correct": "c"
   },
