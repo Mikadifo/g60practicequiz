@@ -1,12 +1,20 @@
 import { useState } from "react";
 import Header from "./Header";
 import Card from "./Card";
-import { getCustomQuestions, getQuestions } from "./../utils/questions.js";
+import {
+  getCustomQuestions,
+  getQuestions,
+  getOriginalQuestions,
+} from "./../utils/questions.js";
 import "./Quiz.css";
 
-const AIQuiz = ({ onRestart, numQuestions }) => {
+const AIQuiz = ({ onRestart, numQuestions = 0, quizType }) => {
   const [questionList, setQuestionList] = useState(
-    numQuestions > 0 ? getCustomQuestions(numQuestions) : getQuestions()
+    quizType === "AI"
+      ? getQuestions()
+      : quizType === "original"
+      ? getOriginalQuestions()
+      : getCustomQuestions(numQuestions)
   );
   const [current, setCurrent] = useState(0);
   const [completed, setCompleted] = useState(0);

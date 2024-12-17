@@ -1,0 +1,793 @@
+[
+  {
+    "id": 35,
+    "text": "What controls the discharge pressure of gas from an oxygen container?",
+    "options": [
+      { "id": "a", "option": "The hose connection" },
+      { "id": "b", "option": "The oxygen regulator" },
+      { "id": "c", "option": "The acetylene regulator" },
+      { "id": "d", "option": "The controls on the torch handle" }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 34,
+    "text": "What type of fire extinguisher is legally required at all locations where hot work is performed?",
+    "options": [
+      {
+        "id": "a",
+        "option": "Type A:D"
+      },
+      {
+        "id": "b",
+        "option": "Type D"
+      },
+      {
+        "id": "c",
+        "option": "Type K"
+      },
+      {
+        "id": "d",
+        "option": "Type B:C"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 33,
+    "text": "Which of the following locations does NOT require at least on fire guard to perform fire watch for the torch operations",
+    "options": [
+      {
+        "id": "a",
+        "option": "In a small construction site"
+      },
+      {
+        "id": "b",
+        "option": "Inside a building with a citywide permit for torch operations"
+      },
+      {
+        "id": "c",
+        "option": "At a fixed workstation in a factory"
+      },
+      {
+        "id": "d",
+        "option": "On a flat roof"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 32,
+    "text": "If any sprinkler head is protected by barriers during torch operations, the barriers should be ______",
+    "options": [
+      {
+        "id": "a",
+        "option": "removed at the end of each workday"
+      },
+      {
+        "id": "b",
+        "option": "removed only when the hot work is completed"
+      },
+      {
+        "id": "c",
+        "option": "remained 24 hours after the completion of the hot work"
+      },
+      {
+        "id": "d",
+        "option": "remained 48 hours after the completion of the hot work"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 31,
+    "text": "A fuel gas is used in the equipment to generate a flame to perform, all of the following, EXCEPT:",
+    "options": [
+      {
+        "id": "a",
+        "option": "brazing"
+      },
+      {
+        "id": "b",
+        "option": "venting"
+      },
+      {
+        "id": "c",
+        "option": "cutting welding"
+      },
+      {
+        "id": "d",
+        "option": "heating"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 30,
+    "text": "Select the correct procedure used to operate a fire extinguisher",
+    "options": [
+      {
+        "id": "a",
+        "option": "1st Shake side to side; 2nd Pull pin from handle; 3rd Aim at base of fire; 4th Squeeze the lever"
+      },
+      {
+        "id": "b",
+        "option": "1st. Shake side to side; 2nd Pull the pin from handle; 3rd. Aim at top of fire; 4rth Squeeze the lever."
+      },
+      {
+        "id": "c",
+        "option": "1st. Pull the pin from handle; 2nd. Aim at top of fire; 3rd. Squeeze the level; 4th Sweep side to side"
+      },
+      {
+        "id": "d",
+        "option": "1st. Pull pin from handle;2nd. Aim at base of fire; 3rd. Squeeze the lever, 4th. Sweep side to side"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 29,
+    "text": "A fire watch must be maintained during any hot work operation. The fire watch must continue for a minimum of _______",
+    "options": [
+      {
+        "id": "a",
+        "option": "4 hours after the conclusion of the hot work"
+      },
+      {
+        "id": "b",
+        "option": "2 hours after the conclusion of the hot work"
+      },
+      {
+        "id": "c",
+        "option": "1 hour after the conclusion of the day"
+      },
+      {
+        "id": "d",
+        "option": "30 minutes after the conclusion of the hot work"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 28,
+    "text": "Oxygen and the fuel gas should be mixed _______ for torch operation",
+    "options": [
+      {
+        "id": "a",
+        "option": "inside the regulator of oxygen container"
+      },
+      {
+        "id": "b",
+        "option": "inside the torch"
+      },
+      {
+        "id": "c",
+        "option": "inside the oxygen container"
+      },
+      {
+        "id": "d",
+        "option": "inside the fuel gas container"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 27,
+    "text": "Why should the hot work area be well ventilated?",
+    "options": [
+      {
+        "id": "a",
+        "option": "It will prevent the sparks from the torch operations"
+      },
+      {
+        "id": "b",
+        "option": "It will intensify the torch flame"
+      },
+      {
+        "id": "c",
+        "option": "It will prevent the worker from breathing dangerous fumes"
+      },
+      {
+        "id": "d",
+        "option": "It will reduce the possibility of flashback"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 26,
+    "text": "Nonmetallic hoses may be allowed ________",
+    "options": [
+      {
+        "id": "a",
+        "option": "in any condition"
+      },
+      {
+        "id": "b",
+        "option": "to exceed 30 feet"
+      },
+      {
+        "id": "c",
+        "option": "on construction sites"
+      },
+      {
+        "id": "d",
+        "option": "to be connected to the appliance with a rubber slip"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 25,
+    "text": "Based on the following picture, select the correct statement regarding the fire extinguisher installation",
+    "options": [
+      {
+        "id": "a",
+        "option": "the fire extinguisher must be placed adjacent to the main exit"
+      },
+      {
+        "id": "b",
+        "option": "The fire extinguisher should be placed against the wall"
+      },
+      {
+        "id": "c",
+        "option": "A fire extinguisher should not be placed on floor"
+      },
+      {
+        "id": "d",
+        "option": "The fire extinguisher must not be placed vertically"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 24,
+    "text": "What is the following device?",
+    "options": [
+      {
+        "id": "a",
+        "option": "An oxygen-propane torch"
+      },
+      {
+        "id": "b",
+        "option": "An oxygen-CNG torch"
+      },
+      {
+        "id": "c",
+        "option": "A blowtorch"
+      },
+      {
+        "id": "d",
+        "option": "An oxygen-acetylene torch"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 23,
+    "text": "A contractor is scheduled to perform torch operation using oxygen and acetylene at 3 different locations of NYC. Each activity is less than 20 days, Which of the following FNDY permits should the contractor apply?",
+    "options": [
+      {
+        "id": "a",
+        "option": "A FNDY temporary site-specific permit"
+      },
+      {
+        "id": "b",
+        "option": "A FNDY permanent site-specific permit"
+      },
+      {
+        "id": "c",
+        "option": "A FNDY construction permit"
+      },
+      {
+        "id": "d",
+        "option": "A FNDY citywide permit"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 22,
+    "text": "The oxygen and acetylene containers:",
+    "options": [
+      {
+        "id": "a",
+        "option": "may share the same regulator for cutting operations"
+      },
+      {
+        "id": "b",
+        "option": "should be secured against dropping"
+      },
+      {
+        "id": "c",
+        "option": "always be transported without the protection caps installed"
+      },
+      {
+        "id": "d",
+        "option": "may be painted any color by the Certificate of Fitness Holder"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 21,
+    "text": "What is NOT a recommended procedure after flashback occurs?",
+    "options": [
+      {
+        "id": "a",
+        "option": "Clean the nozzle tip and the working surface"
+      },
+      {
+        "id": "b",
+        "option": "Check if there is any blockage inside the hoses"
+      },
+      {
+        "id": "c",
+        "option": "Abandon the torch immediately"
+      },
+      {
+        "id": "d",
+        "option": "Ask a qualified technician to repair the equipment"
+      }
+    ],
+    "correct": "c"
+  },
+  {
+    "id": 20,
+    "text": "What is the following device?",
+    "options": [
+      {
+        "id": "a",
+        "option": "A regulator"
+      },
+      {
+        "id": "b",
+        "option": "An excess flow check valve"
+      },
+      {
+        "id": "c",
+        "option": "A presure relief valve"
+      },
+      {
+        "id": "d",
+        "option": "A control valve"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 19,
+    "text": "Acetylene containers should be maintained _______",
+    "options": [
+      {
+        "id": "a",
+        "option": "in an upright position when being used"
+      },
+      {
+        "id": "b",
+        "option": "in any position which is convinient for use"
+      },
+      {
+        "id": "c",
+        "option": "in a hand-truck horizontally when being used"
+      },
+      {
+        "id": "d",
+        "option": "on its side when being used"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 18,
+    "text": "Which is a correct statement regarding the Fire Department permits and Certificate of Fitness?",
+    "options": [
+      {
+        "id": "a",
+        "option": "Both of them shall be readily available on the premises"
+      },
+      {
+        "id": "b",
+        "option": "Both of them shall always be stored off-site for safety reasons"
+      },
+      {
+        "id": "c",
+        "option": "Permits shall be stored off-site for safety reasons and Certificates of Fitness shall be carried by the holders"
+      },
+      {
+        "id": "d",
+        "option": "Permits shall be posted and Certificates of Fitness shall be stored off-site for safety reasons"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 17,
+    "text": "Choose the INCORRECT statement regarding the safety issues of applying torch operations on a container",
+    "options": [
+      {
+        "id": "a",
+        "option": "No torch operation is allowed to be supported by any compressed gas container"
+      },
+      {
+        "id": "b",
+        "option": "Once a metal container has been emptied, it is safe to cut"
+      },
+      {
+        "id": "c",
+        "option": "Welding a container that contains flammable solids may cause explosions"
+      },
+      {
+        "id": "d",
+        "option": "It is prohibited to weld any containers that contain combustible materials"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "text": "In a fire involving flammable gases, the Certificate of Fitness holder should _____",
+    "options": [
+      {
+        "id": "a",
+        "option": "increase the gas supply to observe the gas leaking"
+      },
+      {
+        "id": "b",
+        "option": "shut off the gas supply after the fire is extinguished"
+      },
+      {
+        "id": "c",
+        "option": "use a fan to blow the gases away from the fire"
+      },
+      {
+        "id": "d",
+        "option": "shut off the gas supply before attempting to extinguish the fire"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 15,
+    "text": "Based on the picture below, select the correct statement regarding the bubble:",
+    "options": [
+      {
+        "id": "a",
+        "option": "The bubble indicates the regulator needs to be cleaned"
+      },
+      {
+        "id": "b",
+        "option": "The bubble indicates the weather is too windy for torch use"
+      },
+      {
+        "id": "c",
+        "option": "The bubble indicates the connection needs to be cleaned"
+      },
+      {
+        "id": "d",
+        "option": "The bubble indicates a gas leak"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 14,
+    "text": "What of the following procedures is the best practice when relocation of the COMBUSTIBLE materials is impractical at the hot work area?",
+    "options": [
+      {
+        "id": "a",
+        "option": "The hot work program authorization must not be issued"
+      },
+      {
+        "id": "b",
+        "option": "The responsible person must personally supervise the hot work during the work"
+      },
+      {
+        "id": "c",
+        "option": "The combustible materials should be wetted down by oils"
+      },
+      {
+        "id": "d",
+        "option": "The combustible materials should be tightly covered by fire-retardant guards"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 13,
+    "text": "Based on the picture below, what job functions are being performed",
+    "img": "IMG?PATH?HERE",
+    "options": [
+      {
+        "id": "a",
+        "option": "I: the torch operator, II&III: the fire guards"
+      },
+      {
+        "id": "b",
+        "option": "I: the torch operator, II: the responsible person; III: the fire guard"
+      },
+      {
+        "id": "c",
+        "option": "I: the fire guard; II && III: the responsible people"
+      },
+      {
+        "id": "d",
+        "option": "I: the torch operator, II: the fire guard: III: the responsible people"
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "text": "Oxygen in the oxy-fuel torch does NOT ______",
+    "options": [
+      {
+        "id": "a",
+        "option": "intensify the burning"
+      },
+      {
+        "id": "b",
+        "option": "burn by itself"
+      },
+      {
+        "id": "c",
+        "option": "maintain the flame"
+      },
+      {
+        "id": "d",
+        "option": "support the combustion"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "text": "What kind of shoes are highly recommended to wear for torch operation?",
+    "options": [
+      {
+        "id": "a",
+        "option": "Sandals"
+      },
+      {
+        "id": "b",
+        "option": "Stee-capped boots"
+      },
+      {
+        "id": "c",
+        "option": "Rain boots"
+      },
+      {
+        "id": "d",
+        "option": "Sneakers"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "text": "What class of extinguisher should be used to suppress a flammable and combustible liquid fire?",
+    "options": [
+      {
+        "id": "a",
+        "option": "Class D"
+      },
+      {
+        "id": "b",
+        "option": "Class B"
+      },
+      {
+        "id": "c",
+        "option": "Class A"
+      },
+      {
+        "id": "d",
+        "option": "Class C"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "text": "What is an IMPROPER procedure to identify a compressed gas container?",
+    "options": [
+      {
+        "id": "a",
+        "option": "Use the color of the container as a best reference cue"
+      },
+      {
+        "id": "b",
+        "option": "Always make sure that there are no conflicting markings on the container"
+      },
+      {
+        "id": "c",
+        "option": "Always check the stamp of the container"
+      },
+      {
+        "id": "d",
+        "option": "Always check the stencil of the container"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 8,
+    "text": "Which of the following torches is most often used in a small tin-lead soldering job?",
+    "options": [
+      {
+        "id": "a",
+        "option": "An oxygen-acetylene torch"
+      },
+      {
+        "id": "b",
+        "option": "A heavy duty torch"
+      },
+      {
+        "id": "c",
+        "option": "An oxygen-propane torch"
+      },
+      {
+        "id": "d",
+        "option": "A propane canister torch"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 7,
+    "text": "Select the correct statement regarding the citywide permit",
+    "options": [
+      {
+        "id": "a",
+        "option": "All citywide permits are valid up to one year"
+      },
+      {
+        "id": "b",
+        "option": "A citywide permit is not transferable to a different owner"
+      },
+      {
+        "id": "c",
+        "option": "A citywide permit might authorize the permit holder to store LPG for 30 days"
+      },
+      {
+        "id": "d",
+        "option": "A citywide permit is only allowed to work at a specific location"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 6,
+    "text": "Frayed clothing should NOT be worn when operating a torch because _____",
+    "options": [
+      {
+        "id": "a",
+        "option": "coworkers may take you less seriously"
+      },
+      {
+        "id": "b",
+        "option": "it is susceptible to ignition"
+      },
+      {
+        "id": "c",
+        "option": "it is easy to get dirty"
+      },
+      {
+        "id": "d",
+        "option": "people should avoid expressing their individuality on the job"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "text": "Which of the following is most likely to accidentally cause a fire when using a torch",
+    "options": [
+      {
+        "id": "a",
+        "option": "a limited LPG supply to the torch"
+      },
+      {
+        "id": "b",
+        "option": "non-combustible material"
+      },
+      {
+        "id": "c",
+        "option": "the friction device"
+      },
+      {
+        "id": "d",
+        "option": "slags"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 4,
+    "text": "When a LPG container is too heavy to move, you should _______",
+    "options": [
+      {
+        "id": "a",
+        "option": "roll it on its rim"
+      },
+      {
+        "id": "b",
+        "option": "use a nerbay cart"
+      },
+      {
+        "id": "c",
+        "option": "roll it on its side"
+      },
+      {
+        "id": "d",
+        "option": "use approved lifting equipment"
+      }
+    ],
+    "correct": "d"
+  },
+  {
+    "id": 3,
+    "text": "When a Certificate of Fitness holder detects any defective component of a gas container, what must he/she do?",
+    "options": [
+      {
+        "id": "a",
+        "option": "The Certificate of Fitness holder must safely remove all defective components from the service"
+      },
+      {
+        "id": "b",
+        "option": "The Certificate of Fitness holder must repair the defective component"
+      },
+      {
+        "id": "c",
+        "option": "The Certificate of Fitness holder must mark all defective components and use with caution"
+      },
+      {
+        "id": "d",
+        "option": "The Certificate of Fitness holder must use the container with caution"
+      }
+    ],
+    "correct": "a"
+  },
+  {
+    "id": 2,
+    "text": "Which of the following devices must be used to ignite a torch?",
+    "options": [
+      {
+        "id": "a",
+        "option": "A cigarette-lighter"
+      },
+      {
+        "id": "b",
+        "option": "A friction device"
+      },
+      {
+        "id": "c",
+        "option": "Another torch"
+      },
+      {
+        "id": "d",
+        "option": "A match"
+      }
+    ],
+    "correct": "b"
+  },
+  {
+    "id": 1,
+    "text": "Which statement best describes a flashback situation?",
+    "options": [
+      {
+        "id": "a",
+        "option": "Flame on the torch goes out unexpectedly with a loud \"pop\""
+      },
+      { "id": "b", "option": "Flame on the torch is a diffuse naked flame" },
+      {
+        "id": "c",
+        "option": "Flame burns inside the torch and it is accompanied by a whistling noise"
+      },
+      {
+        "id": "d",
+        "option": "Flame burns outside the torch and the tempeture is not high enough"
+      }
+    ],
+    "correct": "c"
+  }
+]

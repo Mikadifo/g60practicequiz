@@ -1,5 +1,6 @@
-import questions from "./../data/questions.json";
+import questions from "./../data/AIquestions.json";
 import customQuestions from "./../data/customQuestions.json";
+import originalQuestions from "./../data/actualQuestions.json";
 
 const shuffle = (array) => {
   let currentIndex = array.length;
@@ -23,4 +24,9 @@ export const getQuestions = () => {
 export const getCustomQuestions = (number) => {
   shuffle(customQuestions);
   return customQuestions.slice(0, number);
+};
+
+export const getOriginalQuestions = () => {
+  shuffle(originalQuestions);
+  return originalQuestions;
 };
