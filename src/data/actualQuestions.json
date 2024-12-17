@@ -220,6 +220,7 @@
   {
     "id": 25,
     "text": "Based on the following picture, select the correct statement regarding the fire extinguisher installation",
+    "img": "img25.png",
     "options": [
       {
         "id": "a",
@@ -243,6 +244,7 @@
   {
     "id": 24,
     "text": "What is the following device?",
+    "img": "img24.png",
     "options": [
       {
         "id": "a",
@@ -335,6 +337,7 @@
   {
     "id": 20,
     "text": "What is the following device?",
+    "img": "img20.png",
     "options": [
       {
         "id": "a",
@@ -450,6 +453,7 @@
   {
     "id": 15,
     "text": "Based on the picture below, select the correct statement regarding the bubble:",
+    "img": "img15.png",
     "options": [
       {
         "id": "a",
@@ -496,7 +500,7 @@
   {
     "id": 13,
     "text": "Based on the picture below, what job functions are being performed",
-    "img": "IMG?PATH?HERE",
+    "img": "img13.png",
     "options": [
       {
         "id": "a",

@@ -4,6 +4,9 @@ const Card = ({ question, onSelectOption, reviewMode }) => {
   return (
     <div className="card">
       <h5>{question.text}</h5>
+      {question.img && (
+        <img src={require(`./../imgs/${question.img}`)} alt="Question image" />
+      )}
       <ul>
         {question.options.map(({ id, option }) => (
           <div key={id}>

@@ -7,6 +7,10 @@ h5 {
   font-weight: bold;
 }
 
+img {
+  max-height: 350px;
+}
+
 .review-list {
   background: white;
   list-style: none;
